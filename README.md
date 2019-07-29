@@ -20,3 +20,9 @@ Include the header file into your project.
 Call the function.
 
 Check out `main()` function for the detailed usage.
+
+# Do we really need this?
+
+No, actually. :)
+
+You can simply implement the lexicographical comparer with a `memcmp` call and a length comparison. HAHAHA
