@@ -1,3 +1,6 @@
+// Copyright Nettention Inc. 
+// MIT License.
+
 #pragma once 
 
 #include <stdint.h>
