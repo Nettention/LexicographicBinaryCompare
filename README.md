@@ -1,5 +1,5 @@
 # LexicographicBinaryCompare
-This program compares two binaries in lexicographical order.
+This C/C++ program compares two binaries in lexicographical order.
 
 # How to use
 
