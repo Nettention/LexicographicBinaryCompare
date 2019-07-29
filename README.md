@@ -3,7 +3,7 @@ This C/C++ program compares two binaries in lexicographical order.
 
 # How to use
 
-Include the header file in your project.
+Include the header file into your project.
 
 Call the function.
 
